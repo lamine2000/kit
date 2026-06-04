@@ -111,6 +111,7 @@ The [.claude](.claude) folder contains detailed guides:
 
 - **[command-refactor.md](.claude/command-refactor.md)** - Refactoring CLI commands into project subcommand structure
 - **[event-processor.md](.claude/event-processor.md)** - Worker event processing architecture (batching, ordering)
+- **[unit-testing-jobs.md](.claude/unit-testing-jobs.md)** - How to unit-test job code using `openfn compile --test`
 
 ## Code Standards
 
